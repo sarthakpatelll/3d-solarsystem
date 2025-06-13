@@ -32,7 +32,7 @@ A fully interactive and visually realistic **3D simulation of the solar system**
 ```
 📦 3D-Solar-System
 ├── index.html       # Main file containing HTML, JS, and CSS
-└── textures/        # (Optional) Add planet textures here
+
 ```
 
 ---
